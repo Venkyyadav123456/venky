@@ -1,0 +1,26 @@
+NEED OF DIJKSTRAS ALGORITHM:
+Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a weighted graph, which may represent, for example, road networks.
+ADVANTAGES:
+1)It is used in Google Maps.
+2)It is used in finding Shortest Path.
+3)It is used in geographical Maps.
+4)To find locations of Map which refers to vertices of graph.
+5)Distance between the location refers to edges.
+6)It is used in IP routing to find Open shortest Path First.
+7)It is used in the telephone network.
+8)It is used in finding Shortest Path.
+9)It is used in geographical Maps.
+10)To find locations of Map which refers to vertices of graph.
+11)Distance between the location refers to edges.
+12)It is used in the telephone network.
+EXPLANATION:\\ AND EXAMOLES:\\
+1)DIGITAL MAPING SERVISES IN GOOGLE MAPS:
+Many times we have tried to find the distance in G-Maps, from one city to another, or from your location to the nearest desired location. There encounters the Shortest Path Algorithm, as there are various routes/paths connecting them but it has to show the minimum distance, so Dijkstra’s Algorithm is used to find the minimum distance between two locations along the path.
+2)SOCIAL NETWORK APPLICATIONS:
+In many applications you might have seen the app suggests the list of friends that a particular user may know. How do you think many social media companies implement this feature efficiently, especially when the system has over a billion users. The standard Dijkstra algorithm can be applied using the shortest path between users measured through handshakes or connections among them. When the social networking graph is very small, it uses standard Dijkstra’s algorithm along with some other features to find the shortest paths, and however, when the graph is becoming bigger and bigger, the standard algorithm takes a few several seconds to count and alternate advanced algorithms are used.
+3)TELEPHONE NETWORK:
+As we know, in a telephone network, each line has a bandwidth, ‘b’. The bandwidth of the transmission line is the highest frequency that line can support. Generally, if the frequency of the signal is higher in a certain line, the signal is reduced by that line. 
+4)IP ROUTING TO FIND OPEN SHORTEST PATH FIRST:
+Open Shortest Path First (OSPF) is a link-state routing protocol that is used to find the best path between the source and the destination router using its own Shortest Path First. Dijkstra’s algorithm is widely used in the routing protocols required by the routers to update their forwarding table. The algorithm provides the shortest cost path from the source router to other routers in the network.
+5)FLIGHTING AGENDA:
+For example, If a person needs software for making an agenda of flights for customers. The agent has access to a database with all airports and flights. Besides the flight number, origin airport, and destination, the flights have departure and arrival time. Specifically, the agent wants to determine the earliest arrival time for the destination given an origin airport and start time. There this algorithm comes into use.
